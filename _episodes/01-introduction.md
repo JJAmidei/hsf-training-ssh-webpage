@@ -30,6 +30,23 @@ you should know when working remotely.
 
 But first we need to talk a bit about security, especially encryption.
 
+What is SSH?
+------------
+
+SSH is a way to connect to a computer that is not yours. In order to do this, 
+you need to be able to authenticate as well as specifiy which computer you want 
+to connect to. The next sections are about authentication.
+
+The section titled, "What's a private/public key?" covers a popular method for 
+authentication. The section titled, "Asymmetric Encryption" explains how SSH 
+secures traffic between your computer and the other computer. 
+
+
+What's a private/public key?
+----------------------------
+
+
+
 Asymmetric Encryption
 ---------------------
 
